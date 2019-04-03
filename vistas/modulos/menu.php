@@ -12,14 +12,14 @@
                 </div>
                 <div class="collapse navbar-collapse" id="navbar">
                     <ul class="navbar-nav ml-auto">
-                        <li><a class="active" href="index.html">Inicio</a></li>
-                        <li><a href="about-us.html">¿Quiénes somos?</a></li>
-                        <li><a href="portfolio.html">¿Qué son las plagas?</a></li>
-                        <li><a href="services.html">Servicios</a></li>
+                        <li><a class="active" href="#">Inicio</a></li>
+                        <li><a href="#">¿Quiénes somos?</a></li>
+                        <li><a href="#">¿Qué son las plagas?</a></li>
+                        <li><a href="#">Servicios</a></li>
                         <!----<li><a href="features.html">Features</a></li>  DESHABILITADO POR EL MOMENTO  --->
-                        <li><a href="testimonials.html">Testimoniales</a></li>
+                        <li><a href="#">Testimoniales</a></li>
                         <!----<li><a href="pricing.html">Pricing</a></li>  DESHABILITADO POR EL MOMENTO  --->
-                        <li><a href="contact.html">Contactanos</a></li>
+                        <li><a href="#">Contactanos</a></li>
                     </ul>
                 </div>
             </div>
