@@ -14,16 +14,16 @@
 				<div class="col-md-6 col-lg-3">
                     <div class="widget clearfix">
                         <div class="widget-title">
-                            <h3>Useful links</h3>
+                            <h3>Cucas Kain</h3>
                         </div>
 
                         <ul class="footer-links hov">
-                            <li><a href="#">Home <span class="icon icon-arrow-right2"></span></a></li>
-							<li><a href="#">Blog <span class="icon icon-arrow-right2"></span></a></li>
-							<li><a href="#">Pricing <span class="icon icon-arrow-right2"></span></a></li>
-							<li><a href="#">About <span class="icon icon-arrow-right2"></span></a></li>
-							<li><a href="#">Faq <span class="icon icon-arrow-right2"></span></a></li>
-							<li><a href="#">Contact <span class="icon icon-arrow-right2"></span></a></li>
+                            <li><a href="#">Inicio <span class="icon icon-arrow-right2"></span></a></li>
+							<li><a href="#">¿Quiénes somos? <span class="icon icon-arrow-right2"></span></a></li>
+							<li><a href="#">¿Qué son las plagas? <span class="icon icon-arrow-right2"></span></a></li>
+							<li><a href="#">Servicios <span class="icon icon-arrow-right2"></span></a></li>
+							<li><a href="#">Testimoniales <span class="icon icon-arrow-right2"></span></a></li>
+							<li><a href="#">Contactanos <span class="icon icon-arrow-right2"></span></a></li>
                         </ul><!-- end links -->
                     </div><!-- end clearfix -->
                 </div><!-- end col -->
@@ -31,29 +31,29 @@
                 <div class="col-md-6 col-lg-3">
                     <div class="footer-recent clearfix">
                         <div class="widget-title">
-                            <h3>Recent posts</h3>
+                            <h3>Recientes articulos</h3>
                         </div>
 						
 						<ul>
 							<li>
 								<i class="fa fa-user" aria-hidden="true"></i>
-								<span>Posted By : Ahmed Rubel</span>
+								<span>Creado por: Admn</span>
 								<i class="fa fa-clock-o" aria-hidden="true"></i>
-								<span> Time : 1.30 Am</span>
+								<span>Hora: 12:00 AM</span>
 								<h2>Etiam dignissim augue a commodo</h2>
 							</li>
 							<li>
 								<i class="fa fa-user" aria-hidden="true"></i>
-								<span>Posted By : Ahmed Rubel</span>
+								<span>Creado por: Admn</span>
 								<i class="fa fa-clock-o" aria-hidden="true"></i>
-								<span> Time : 1.30 Am</span>
+								<span>Hora: 12:00 AM</span>
 								<h2>Etiam dignissim augue a commodo</h2>
 							</li>
 							<li>
 								<i class="fa fa-user" aria-hidden="true"></i>
-								<span>Posted By : Ahmed Rubel</span>
+								<span>Creado por: Admn</span>
 								<i class="fa fa-clock-o" aria-hidden="true"></i>
-								<span> Time : 1.30 Am</span>
+								<span>Hora: 12:00 AM</span>
 								<h2>Etiam dignissim augue a commodo</h2>
 							</li>
 						</ul>
@@ -63,13 +63,13 @@
 				<div class="col-md-6 col-lg-3">
 					<div class="widget footer-contact clearfix">
 						<div class="widget-title">
-                            <h3>Contact Us</h3>
+                            <h3>Contactanos</h3>
                         </div>
 						
 						<ul>
-							<li>Address: PO Box 16122 Collins Street West Victoria 8007 Australia</li>
-							<li>Phone: <a href="#">+62 3 8376 8080  </a></li>
-							<li>Email: <a href="#">info@yoursite.com </a></li>
+							<li>Dirección: </li>
+							<li>Télefono: <a href="#">+999999999</a></li>
+							<li>Correo: <a href="#">cucaskain@lorem.lorem</a></li>
 						</ul>
 						<ul class="social-list">
 							<li><a href="https://www.facebook.com/" class="facebook"><i class="fa fa-facebook"></i></a></li>
@@ -92,8 +92,8 @@
         <div class="container">
             <div class="footer-distributed">
                 <div class="footer-left">                   
-                    <p class="footer-company-name">All Rights Reserved. &copy; 2018 <a href="#">Linkweb</a> Design By : 
-					<a href="https://html.design/">html design</a></p>
+                    <p class="footer-company-name">Todos los derechos reservados &copy; 2019 <a href="#">Sitio web</a> Diseñado por: 
+					<a href="#">Aztec Solutions</a></p>
                 </div>
 
                 

@@ -13,13 +13,13 @@
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
  
      <!-- Site Metas -->
-    <title>Linkweb - Responsive HTML5 Template</title>  
+    <title>¡Bienvenido a Cucas Kain!</title>  
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
 
     <!-- Site Icons -->
-    <link rel="shortcut icon" href="vistas/images/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="vistas/images/logos/header.jpg" type="image/x-icon" />
     <link rel="apple-touch-icon" href="vistas/images/apple-touch-icon.png">
 
     <!-- Bootstrap CSS -->

@@ -30,10 +30,10 @@
                 <div class="col-md-6 col-sm-6">
                     <div class="left-top">
                         <div class="email-box">
-                            <a href="#"><i class="fa fa-envelope-o" aria-hidden="true"></i> youremail@gmail.com</a>
+                            <a href="#"><i class="fa fa-envelope-o" aria-hidden="true"></i>cucaskain@lorem.lorem</a>
                         </div>
                         <div class="phone-box">
-                            <a href="tel:1234567890"><i class="fa fa-phone" aria-hidden="true"></i> +1 234 567 890</a>
+                            <a href="tel:1234567890"><i class="fa fa-phone" aria-hidden="true"></i>+999999999</a>
                         </div>
                     </div>
                 </div>
