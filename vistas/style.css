@@ -371,7 +371,7 @@ a img.aligncenter {
 	font-size: 20px;
 }
 .social-box ul li a:hover{
-	color: #cdd51f;
+	color: rgba(255, 115, 0, 0.8);
 }
 
 
@@ -3269,7 +3269,7 @@ select.mobile-device {
 }
 
 #test-box .testimonial h4{
-	color: #393939;
+	color: #141414;
 }
 
 .pricingTable{
