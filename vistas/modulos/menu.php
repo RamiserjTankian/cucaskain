@@ -2,7 +2,7 @@
         <nav class="megamenu navbar navbar-expand-lg navbar-light bg-light">
             <div class="container">
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="index.html"><img src="images/logos/logo.png" alt="image"></a>
+                    <a class="navbar-brand" href="#"><img src="../images/logo-cucas-kain.png" alt="logocucaskain"></a>
                     <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="sr-only">Navegacion</span>
                         <span class="icon-bar"></span>
