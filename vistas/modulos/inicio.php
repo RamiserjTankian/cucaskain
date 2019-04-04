@@ -102,29 +102,6 @@
                 <h3>Our Clients</h3>
                 <p class="lead">We thanks for all our awesome testimonials! There are hundreds of our happy customers! <br>Let's see what others say about GoodWEB Solutions website template!</p>
             </div><!-- end title -->
-
-            <hr class="hr1">
-
-            <div class="row logos">
-                <div class="col-md-2 col-sm-2 wow fadeInUp">
-                    <a href="#"><img src="vistas/uploads/logo_01.png" alt="" class="img-repsonsive"></a>
-                </div>
-                <div class="col-md-2 col-sm-2 wow fadeInUp">
-                    <a href="#"><img src="vistas/uploads/logo_02.png" alt="" class="img-repsonsive"></a>
-                </div>
-                <div class="col-md-2 col-sm-2 wow fadeInUp">
-                    <a href="#"><img src="vistas/uploads/logo_03.png" alt="" class="img-repsonsive"></a>
-                </div>
-                <div class="col-md-2 col-sm-2 wow fadeInUp">
-                    <a href="#"><img src="vistas/uploads/logo_04.png" alt="" class="img-repsonsive"></a>
-                </div>
-                <div class="col-md-2 col-sm-2 wow fadeInUp">
-                    <a href="#"><img src="vistas/uploads/logo_05.png" alt="" class="img-repsonsive"></a>
-                </div>
-                <div class="col-md-2 col-sm-2 wow fadeInUp">
-                    <a href="#"><img src="vistas/uploads/logo_06.png" alt="" class="img-repsonsive"></a>
-                </div>
-            </div><!-- end row -->
-
+            
         </div><!-- end container -->
     </div><!-- end section -->
