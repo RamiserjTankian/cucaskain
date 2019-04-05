@@ -548,7 +548,7 @@ li.social-links a {
 }
 
 .slide-text h1 span{
-	color: #cdd51f;
+	color: rgb(255, 115, 0);
 }
 
 .slide-text h2 {
@@ -562,7 +562,7 @@ li.social-links a {
 }
 
 .slider-wrapper .owl-nav .owl-prev, .slider-wrapper .owl-nav .owl-next {
-    background: #cdd51f;
+    background: rgb(255, 115, 0);
     height: 60px;
     top: 50%;
     transform: translateY(-50%);
@@ -659,7 +659,7 @@ li.social-links a {
     width: 100%;
     height: 100%;
     display: block;
-    background: #cdd51f;
+    background: rgb(255, 115, 0);
     position: absolute;  
     left: 0%;
     opacity: 1;
@@ -917,7 +917,7 @@ li.social-links a {
 .portfolio-filter ul li .btn-dark {
     box-shadow: none;
     background-color: transparent;
-    border: 2px solid #cdd51f !important;
+    border: 2px solid rgb(255, 115, 0) !important;
     color: #393939;
     font-weight: 500;
     font-size: 14px;
@@ -971,7 +971,7 @@ li.social-links a {
 }
 
 .da-thumbs .pitem a div i {
-    background-color: #cdd51f;
+    background-color: rgb(255, 115, 0);
     position: absolute;
     color: #ffffff !important;
     bottom: 0;
@@ -1002,7 +1002,7 @@ li.social-links a {
 }
 
 .desc h3 i {
-    color: #cdd51f;
+    color: rgb(255, 115, 0);
     font-size: 37px;
     vertical-align: middle;
     margin-right: 12px;
@@ -1012,7 +1012,7 @@ li.social-links a {
     padding: 30px;
     position: relative;
     background: #393939;
-    border: 4px solid #cdd51f;
+    border: 4px solid rgb(255, 115, 0);
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
 	border-radius: 10px;
@@ -1381,7 +1381,7 @@ li.social-links a {
     padding-top: 10px;
     font-size: 19px;
     font-style: normal;
-    color: #cdd51f;
+    color: rgb(255, 115, 0);
     padding-bottom: 0;
 }
 
@@ -1416,7 +1416,7 @@ li.social-links a {
 	font-size: 16px;
 }
 .message-box ul li i{
-	color: #cdd51f;
+	color: rgb(255, 115, 0);
 	font-size: 24px;
 	padding-right: 10px;
 }
@@ -1445,7 +1445,7 @@ li.social-links a {
 }
 
 .hoverbutton {
-    background-color: #cdd51f;
+    background-color: rgb(255, 115, 0);
     position: absolute;
     color: #ffffff !important;
     top: 0;
@@ -1632,7 +1632,7 @@ hr.invis1 {
 
 .customwidget li i {
     margin-right: 5px;
-	color: #cdd51f;
+	color: rgb(255, 115, 0);
 }
 
 .customwidget li {
@@ -1727,7 +1727,7 @@ hr.invis1 {
     border-radius: 10px;
     font-size: 26px;
 	color: #ffffff;
-    background-color: #cdd51f;
+    background-color: rgb(255, 115, 0);
     margin: 0 auto 22px;
     position: relative;
     text-align: center;
@@ -2270,7 +2270,7 @@ select.mobile-device {
 
 .footer-links a:hover,
 .footer a:hover {
-    color: #cdd51f !important;
+    color: rgb(255, 115, 0) !important;
 }
 
 .footer-links li {
@@ -2311,7 +2311,7 @@ select.mobile-device {
 }
 .footer-recent ul li i{
 	font-size: 14px;
-	color: #cdd51f;
+	color: rgb(255, 115, 0);
 }
 .footer-recent ul li span {
 	font-size: 12px;
@@ -2351,7 +2351,7 @@ select.mobile-device {
 	font-size: 16px;
 }
 .social-list li a:hover{
-	border: 3px solid #cdd51f;
+	border: 3px solidrgba(255, 115, 0, 0.767);
 }
 
 
@@ -2394,7 +2394,7 @@ select.mobile-device {
 }
 
 .footer-distributed .footer-company-name a{
-	color: rgba(255, 115, 0, 0.8);
+	color: rgb(255, 115, 0);
     text-transform: uppercase;
 }
 
@@ -2537,7 +2537,7 @@ select.mobile-device {
 }
 
 .dmtop:hover {
-	background-color: #cdd51f;
+	background-color: rgb(255, 115, 0);
 }
 
 .icon_wrap {
@@ -2556,7 +2556,7 @@ select.mobile-device {
 .stat-wrap h3 {
     font-size: 22px;
     font-weight: 600;
-    color: #cdd51f;
+    color: rgb(255, 115, 0);
     margin: 0 !important;
     padding: 0 !important;
     line-height: 1 !important:
@@ -2605,7 +2605,7 @@ select.mobile-device {
     right: 0;
     bottom: 0;
     left: 0;
-    background: #cdd51f;
+    background: rgb(255, 115, 0);
     z-index: 11000;
     position: fixed;
     display: block;
@@ -3068,9 +3068,9 @@ select.mobile-device {
 .btn-light {
     padding: 13px 40px;
     font-size: 18px;
-    border: 2px solid #cdd51f;
+    border: 2px solid rgb(255, 115, 0);
     color: #ffffff;
-    background-color: #cdd51f;
+    background-color: rgb(255, 115, 0);
 }
 
 .btn-dark {
@@ -3083,7 +3083,7 @@ select.mobile-device {
 
 .btn-light:hover,
 .btn-light:focus {
-    border-color: #cdd51f;
+    border-color: rgb(255, 115, 0);
     color: rgba(255, 255, 255);
 	background: #393939;
 }
@@ -3235,7 +3235,7 @@ select.mobile-device {
 .about-icon span{
 	font-size: 48px;
 	color: #393939;
-	background: #cdd51f;
+	background: rgb(255, 115, 0);
 	padding: 10px;
 	border-radius: 10px;
 }
@@ -3249,7 +3249,7 @@ select.mobile-device {
 	color: #393939;
 }
 .about-text h3 a:hover{
-	color: #cdd51f;
+	color: rgb(255, 115, 0);
 }
 
 .about-item:hover .about-icon{
@@ -3287,7 +3287,7 @@ select.mobile-device {
     transition: all 0.5s ease 0s;
 }
 .pricingTable:hover{
-    background: #cdd51f;
+    background: rgb(255, 115, 0);
     border-color: #fff;
     color: #fff;
 }
@@ -3354,9 +3354,9 @@ select.mobile-device {
     right: 0;
     transition: all 0.5s ease 0s;
 }
-.pricingTable:hover .pricing-content:before{ background: #cdd51f; }
+.pricingTable:hover .pricing-content:before{ background: rgb(255, 115, 0); }
 .pricingTable .pricingTable-signup{  
-	border: 1px solid #cdd51f;
+	border: 1px solid rgb(255, 115, 0);
     color: #043565;
 	top: 0;
     transition: all 0.5s ease 0s;
@@ -3415,7 +3415,7 @@ select.mobile-device {
 .address-item h3{
 	font-size: 28px;
 	font-weight: 600;
-	color: #cdd51f;
+	color: rgb(255, 115, 0);
 }
 
 
