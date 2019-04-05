@@ -11,7 +11,7 @@
                     </div><!-- end clearfix -->
                 </div><!-- end col -->
 
-				<div class="col-md-6 col-lg-4">
+				<div class="col-md-3 col-lg-3">
                     <div class="widget clearfix">
                         <div class="widget-title">
                             <h3>Cucas Kain</h3>
@@ -28,25 +28,23 @@
                     </div><!-- end clearfix -->
                 </div><!-- end col -->
 				
-				<div class="col-md-6 col-lg-5">
+				<div class="col-md-3 col-lg-3">
 					<div class="widget footer-contact clearfix">
 						<div class="widget-title">
                             <h3>Contactanos</h3>
                         </div>
-						
-						<ul>
-							<li>Dirección: </li>
-							<li>Télefono: <a href="#">+999999999</a></li>
-							<li>Correo: <a href="#">cucaskain@lorem.lorem</a></li>
-						</ul>
-						<ul class="social-list">
-							<li><a href="https://www.facebook.com/" class="facebook"><i class="fa fa-facebook"></i></a></li>
-							<li><a href="https://twitter.com/" class="twitter"><i class="fa fa-twitter"></i></a></li>
-							<li><a href="https://linkedin.com/" class="linkedin"><i class="fa fa-linkedin"></i></a></li>
-							<li><a href="https://www.instagram.com/" class="instagram"><i class="fa fa-instagram"></i></a></li>
-							<li><a href="https://plus.google.com/" class="googlePlus"><i class="fa fa-google-plus"></i></a></li>
-						</ul>
-						
+						<div class="">
+                            <ul>
+                                <li>Dirección: </li>
+                                <li>Télefono: <a href="#">+999999999</a></li>
+                                <li>Correo: <a href="#">cucaskain@lorem.lorem</a></li>
+                            </ul>
+                            <ul class="social-list">
+                                <li><a href="https://www.facebook.com/" class="facebook"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="https://twitter.com/" class="twitter"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="https://www.instagram.com/" class="instagram"><i class="fa fa-instagram"></i></a></li>
+                            </ul>
+						</div>
 					</div>
 				</div>
 				

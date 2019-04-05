@@ -2214,9 +2214,11 @@ select.mobile-device {
 }
 
 .footer {
-    padding: 40px 40px 40px 40px !important;
-    color: #999;
-    background-color: #393939;
+    padding: 40px 40px 40px 400px !important;
+    color: #000000;
+    border-top-right-radius: 10rem;
+    border-top-left-radius: 10rem;
+    background-color: rgb(255, 115, 0);
     text-align: center;
     position: center;
 }
@@ -2228,7 +2230,7 @@ select.mobile-device {
 }
 
 .footer .widget-title small {
-    color: #999;
+    color: #000000;
     display: block;
     padding: 10px 58px 10px 58px;
     text-transform: uppercase;
@@ -2250,7 +2252,7 @@ select.mobile-device {
 }
 
 .footer-links a {
-    color: #999;
+    color: #000000;
 	display: block;
 }
 
@@ -2270,7 +2272,7 @@ select.mobile-device {
 
 .footer-links a:hover,
 .footer a:hover {
-    color: rgb(255, 115, 0) !important;
+    color: #000000 !important;
 }
 
 .footer-links li {
