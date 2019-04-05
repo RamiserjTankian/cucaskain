@@ -2,10 +2,10 @@
     <footer class="footer">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 col-lg-3">
+                <div class="col-md-3 col-lg-3">
                     <div class="widget clearfix">
                         <div class="widget-title">
-                            <img src="images/logos/logo-2.png" alt="" />
+                            <span style="font-size: 2em; color: #fff;"><i class="fas fa-bug"></i></span>
                         </div>
                         <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis montes.</p>                        
                     </div><!-- end clearfix -->
@@ -60,7 +60,7 @@
         <div class="container">
             <div class="footer-distributed">
                 <div class="footer-left">                   
-                    <p class="footer-company-name">Todos los derechos reservados &copy; 2019 <a href="#">Sitio web</a> Diseñado por: 
+                    <p class="footer-company-name">Todos los derechos reservados &copy; 2019 <a href="#">Cucas Kain</a> Diseñado por: 
 					<a href="#">Aztec Solutions</a></p>
                 </div>
 

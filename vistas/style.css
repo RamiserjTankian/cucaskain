@@ -322,7 +322,7 @@ a img.aligncenter {
 -------------------------------------------------------------------*/
 
 .top-bar{
-	background: #393939;
+	background: #292929;
 }
 .left-top{
 	padding: 3px 0px; 
@@ -337,7 +337,7 @@ a img.aligncenter {
 	font-size: 16px;
 }
 .email-box a:hover{
-	color: #cdd51f;
+	color: rgba(255, 115, 0, 0.8);;
 }
 .email-box a i{
 	padding: 0px 5px;
@@ -351,18 +351,19 @@ a img.aligncenter {
 	font-size: 16px;
 }
 .phone-box a:hover{
-	color: #cdd51f;
+	color: rgba(255, 115, 0, 0.8);;
 }
 .phone-box a i{
 	padding: 0px 5px;
 }
 
 .social-box{
-	float: left;
+    float: left;
 }
 
 .social-box ul li{
-	display: inline-block;
+    display: inline-block;
+    position: relative;
 	padding-left: 10px;
 }
 
@@ -2213,9 +2214,11 @@ select.mobile-device {
 }
 
 .footer {
-    padding: 90px 0 80px !important;
+    padding: 40px 40px 40px 40px !important;
     color: #999;
     background-color: #393939;
+    text-align: center;
+    position: center;
 }
 
 .footer .widget-title {
@@ -2227,7 +2230,7 @@ select.mobile-device {
 .footer .widget-title small {
     color: #999;
     display: block;
-    padding: 0 58px;
+    padding: 10px 58px 10px 58px;
     text-transform: uppercase;
 }
 
@@ -2238,6 +2241,7 @@ select.mobile-device {
     padding: 0;
     margin: 0;
     line-height: 1 !important;
+    text-transform: uppercase
 }
 
 .footer-links {
@@ -2352,12 +2356,12 @@ select.mobile-device {
 
 
 .copyrights {
-    border-top: 1px dashed rgba(255, 255, 255, 0.1);
-    background-color: #1f1f1f;
+    border-top: #292929;
+    background-color: #292929;
     box-sizing: border-box;
     width: 100%;
-    text-align: left;
-    padding: 20px 0px;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
     overflow: hidden;
 }
 
@@ -2385,16 +2389,18 @@ select.mobile-device {
 .footer-distributed .footer-company-name {
     font-weight: 300;
     margin: 0 10px;
-    color: #666;
+    color: rgb(172, 172, 172);
     padding: 0;
 }
 
 .footer-distributed .footer-company-name a{
-	color: #ffffff;
+	color: rgba(255, 115, 0, 0.8);
+    text-transform: uppercase;
 }
 
 .footer-distributed .footer-company-name a:hover{
-	color: #cdd51f;
+    color: rgb(255, 255, 255);
+
 }
 
 
