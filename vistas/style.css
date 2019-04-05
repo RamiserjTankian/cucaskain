@@ -3130,7 +3130,7 @@ select.mobile-device {
 
 .banner-bg-1{
 	background: url(images/header.jpg);
-	padding: 120px 0;	
+	padding: 300px 0 750px 0;	
 	background-clip: initial;
 	background-color: rgba(0, 0, 0, 0);
 	background-origin: initial;
@@ -3149,8 +3149,8 @@ select.mobile-device {
 	position: absolute;
 	top: 0;
 	width: 100%;
-	z-index: -1;
-    background: rgba(255, 115, 0, 0.8);
+	z-index: 0;
+    background: rgba(255, 115, 0, 0.767);
 }
 
 .banner{

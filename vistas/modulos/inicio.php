@@ -1,15 +1,4 @@
-<div class="banner-area banner-bg-1">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12">
-					<div class="banner">
-						<h2><span>Inicio</span></h2>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
+<div class="banner-area banner-bg-1"></div>
     <div id="test-box" class="section wb">
         <div class="container">
             <div class="section-title text-center">
