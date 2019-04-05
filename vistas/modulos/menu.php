@@ -12,14 +12,73 @@
                 </div>
                 <div class="collapse navbar-collapse" id="navbar">
                     <ul class="navbar-nav ml-auto">
-                        <li><a class="active" href="inicio">Inicio</a></li>
-                        <li><a href="nosotros">¿Quiénes somos?</a></li>
-                        <li><a href="plagas">¿Qué son las plagas?</a></li>
-                        <li><a href="servicios">Servicios</a></li>
-                        <!----<li><a href="features.html">Features</a></li>  DESHABILITADO POR EL MOMENTO  --->
-                        <li><a href="testimonios">Testimonios</a></li>
-                        <!----<li><a href="pricing.html">Pricing</a></li>  DESHABILITADO POR EL MOMENTO  --->
-                        <li><a href="contacto">Contactanos</a></li>
+                        <?php 
+                         if (isset($_GET["ruta"]) == ""){
+                          echo'  
+                            <li><a class="active" href="inicio">Inicio</a></li>
+                            <li><a href="nosotros">¿Quiénes somos?</a></li>
+                            <li><a href="plagas">¿Qué son las plagas?</a></li>
+                            <li><a href="servicios">Servicios</a></li>              
+                            <li><a href="testimonios">Testimonios</a></li>    
+                            <li><a href="contacto">Contactanos</a></li>';
+                         }
+
+                         elseif($_GET["ruta"] == "inicio"){
+                            echo'       
+                            <li><a class="active" href="inicio">Inicio</a></li>               
+                            <li><a href="nosotros">¿Quiénes somos?</a></li>
+                            <li><a href="plagas">¿Qué son las plagas?</a></li>
+                            <li><a href="servicios">Servicios</a></li>              
+                            <li><a href="testimonios">Testimonios</a></li>    
+                            <li><a href="contacto">Contactanos</a></li>';
+                         }
+                         elseif($_GET["ruta"] == "nosotros"){
+                            echo'       
+                            <li><a href="inicio">Inicio</a></li>               
+                            <li><a class="active" href="nosotros">¿Quiénes somos?</a></li>
+                            <li><a href="plagas">¿Qué son las plagas?</a></li>
+                            <li><a href="servicios">Servicios</a></li>              
+                            <li><a href="testimonios">Testimonios</a></li>    
+                            <li><a href="contacto">Contactanos</a></li>';
+                         }
+                         elseif($_GET["ruta"] == "plagas"){
+                            echo'       
+                            <li><a href="inicio">Inicio</a></li>               
+                            <li><a href="nosotros">¿Quiénes somos?</a></li>
+                            <li><a class="active" href="plagas">¿Qué son las plagas?</a></li>
+                            <li><a href="servicios">Servicios</a></li>            
+                            <li><a href="testimonios">Testimonios</a></li>                 
+                            <li><a href="contacto">Contactanos</a></li>';
+                         }
+                         elseif($_GET["ruta"] == "servicios"){
+                            echo'       
+                            <li><a href="inicio">Inicio</a></li>               
+                            <li><a href="nosotros">¿Quiénes somos?</a></li>
+                            <li><a href="plagas">¿Qué son las plagas?</a></li>
+                            <li><a class="active" href="servicios">Servicios</a></li>                    
+                            <li><a href="testimonios">Testimonios</a></li>                     
+                            <li><a href="contacto">Contactanos</a></li>';
+                         }
+                         elseif($_GET["ruta"] == "testimonios"){
+                            echo'       
+                            <li><a href="inicio">Inicio</a></li>               
+                            <li><a href="nosotros">¿Quiénes somos?</a></li>
+                            <li><a href="plagas">¿Qué son las plagas?</a></li>
+                            <li><a href="servicios">Servicios</a></li>                      
+                            <li><a class="active" href="testimonios">Testimonios</a></li>                    
+                            <li><a href="contacto">Contactanos</a></li>';
+                         }
+                         elseif($_GET["ruta"] == "contacto"){
+                            echo'       
+                            <li><a href="inicio">Inicio</a></li>               
+                            <li><a href="nosotros">¿Quiénes somos?</a></li>
+                            <li><a href="plagas">¿Qué son las plagas?</a></li>
+                            <li><a href="servicios">Servicios</a></li>                      
+                            <li><a href="testimonios">Testimonios</a></li>                    
+                            <li><a class="active" href="contacto">Contactanos</a></li>';
+                         }
+
+                        ?>
                     </ul>
                 </div>
             </div>

@@ -11,7 +11,7 @@
                     </div><!-- end clearfix -->
                 </div><!-- end col -->
 
-				<div class="col-md-6 col-lg-3">
+				<div class="col-md-6 col-lg-4">
                     <div class="widget clearfix">
                         <div class="widget-title">
                             <h3>Cucas Kain</h3>
@@ -28,39 +28,7 @@
                     </div><!-- end clearfix -->
                 </div><!-- end col -->
 				
-                <div class="col-md-6 col-lg-3">
-                    <div class="footer-recent clearfix">
-                        <div class="widget-title">
-                            <h3>Recientes articulos</h3>
-                        </div>
-						
-						<ul>
-							<li>
-								<i class="fa fa-user" aria-hidden="true"></i>
-								<span>Creado por: Admn</span>
-								<i class="fa fa-clock-o" aria-hidden="true"></i>
-								<span>Hora: 12:00 AM</span>
-								<h2>Etiam dignissim augue a commodo</h2>
-							</li>
-							<li>
-								<i class="fa fa-user" aria-hidden="true"></i>
-								<span>Creado por: Admn</span>
-								<i class="fa fa-clock-o" aria-hidden="true"></i>
-								<span>Hora: 12:00 AM</span>
-								<h2>Etiam dignissim augue a commodo</h2>
-							</li>
-							<li>
-								<i class="fa fa-user" aria-hidden="true"></i>
-								<span>Creado por: Admn</span>
-								<i class="fa fa-clock-o" aria-hidden="true"></i>
-								<span>Hora: 12:00 AM</span>
-								<h2>Etiam dignissim augue a commodo</h2>
-							</li>
-						</ul>
-						                       
-                    </div><!-- end clearfix -->
-                </div><!-- end col -->
-				<div class="col-md-6 col-lg-3">
+				<div class="col-md-6 col-lg-5">
 					<div class="widget footer-contact clearfix">
 						<div class="widget-title">
                             <h3>Contactanos</h3>
