@@ -2,24 +2,23 @@
 <div class="container">
 <div class="row">
     <div class="col-sm-6 col-md-6">
-   
-    <img class=" img-fluid" src="vistas/images/logo-cucas-kain.png" >
- 
-        </div>
-        <div class="col-md-6">
-        <div id="test-box" class="section wb">
-        <div class="section-title text-center">
-      
-                         <h2>Lorem</h2>
-                        <p class="lead">Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula enim, non aliquam risus. Sed a tellus quis mi rhoncus dignissim.</p>
-                            
-                        <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed vitae rutrum neque. Ut id erat sit amet libero bibendum aliquam. Donec ac egestas libero, eu bibendum risus. Phasellus et congue justo. </p>
-
-                       <button type="button" class="btn btn-warning btn-lg">Agendar</button>
-                    </div><!-- end messagebox -->
-        </div>  
-        </div>
+        <img class=" img-fluid" src="vistas/images/logo-cucas-kain.png" >
     </div>
+            <div class="col-md-6">
+            <div id="test-box" class="section wb">
+                <div class="section-title text-center">
+
+                    <h2>Lorem</h2>
+                    <p class="lead">Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula enim, non aliquam risus. Sed a tellus quis mi rhoncus dignissim.</p>
+                     
+                    <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed vitae rutrum neque. Ut id erat sit amet libero bibendum aliquam. Donec ac egestas libero, eu bibendum risus. Phasellus et congue justo. </p>
+
+                    <button type="button" class="btn btn-warning btn-lg">Agendar</button>
+                </div><!-- end messagebox -->
+            </div>  
+            </div>
+    </div>
+</div>
 </div>
 </div>
     <div id="test-box" class="section wb">
@@ -34,12 +33,10 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="message-box">
-                         <h2>Lorem</h2>
+                        <h2>Lorem</h2>
                         <p class="lead">Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula enim, non aliquam risus. Sed a tellus quis mi rhoncus dignissim.</p>
-
                         <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed vitae rutrum neque. Ut id erat sit amet libero bibendum aliquam. Donec ac egestas libero, eu bibendum risus. Phasellus et congue justo. </p>
-
-                       <button type="button" class="btn btn-warning btn-lg">Agendar</button>
+                        <button type="button" class="btn btn-warning btn-lg">Agendar</button>
                     </div><!-- end messagebox -->
                 </div><!-- end col -->
 
