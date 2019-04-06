@@ -3186,7 +3186,7 @@ select.mobile-device {
 
 .banner-bg-1 {
     background: url(images/header.jpg);
-    padding: 300px 0 750px 0;
+    padding: 100px 0 100px 0;
     background-clip: initial;
     background-color: rgba(0, 0, 0, 0);
     background-origin: initial;
