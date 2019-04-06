@@ -16,7 +16,7 @@
 
                         <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed vitae rutrum neque. Ut id erat sit amet libero bibendum aliquam. Donec ac egestas libero, eu bibendum risus. Phasellus et congue justo. </p>
 
-                        <a class="btn11" href="#0"><span>Agendar cita</span><div class="transition"></div></a>
+                       <button type="button" class="btn btn-warning btn-lg">Agendar</button>
                     </div><!-- end messagebox -->
                 </div><!-- end col -->
 

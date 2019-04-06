@@ -1,8 +1,7 @@
-
     <footer class="footer">
         <div class="container">
             <div class="row">
-                <div class="col-md-3 col-lg-3">
+                <div class="col-sm-3 col-md-3 col-lg-3">
                     <div class="widget clearfix">
                         <div class="widget-title">
                             <span style="font-size: 2em; color: #fff;"><i class="fas fa-bug"></i></span>
@@ -11,7 +10,7 @@
                     </div><!-- end clearfix -->
                 </div><!-- end col -->
 
-				<div class="col-md-3 col-lg-3">
+				<div class="col-sm-3 col-md-3 col-lg-3">
                     <div class="widget clearfix">
                         <div class="widget-title">
                             <h3>Cucas Kain</h3>
@@ -28,12 +27,12 @@
                     </div><!-- end clearfix -->
                 </div><!-- end col -->
 				
-				<div class="col-md-3 col-lg-3">
+				<div class="col-sm-3 col-md-3 col-lg-3">
 					<div class="widget footer-contact clearfix">
 						<div class="widget-title">
                             <h3>Contactanos</h3>
                         </div>
-						<div class="">
+    
                             <ul>
                                 <li>Dirección: </li>
                                 <li>Télefono: <a href="#">+999999999</a></li>
@@ -51,7 +50,7 @@
 				
 				
             </div><!-- end row -->
-        </div><!-- end container -->
+     
     </footer><!-- end footer -->
 
     <div class="copyrights">
