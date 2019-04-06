@@ -58,7 +58,7 @@
             <div class="footer-distributed">
                 <div class="footer-left">                   
                     <p class="footer-company-name">Todos los derechos reservados &copy; 2019 <a href="#">Cucas Kain</a> Diseñado por: 
-					<a href="#">Aztec Solutions</a></p>
+					<a href="#">Azteca Solutions</a></p>
                 </div>
 
                 
