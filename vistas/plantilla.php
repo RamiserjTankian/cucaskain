@@ -74,6 +74,8 @@ if (isset($_GET["ruta"])) {
 
     if ($_GET["ruta"] == "inicio" || //CONDICIONA LA RUTA PARA CREAR LA ESTRUCTURA INCLUYENDO EL HEADER, SEGUIDAMENTE DEL MENU Y CON EL CONTENIDO QUE ES LA RUTA Y AL FINAL EL FOOTER
         $_GET["ruta"] == "contacto" ||
+        $_GET["ruta"] == "servicios" ||
+        $_GET["ruta"] == "contacto" ||
         $_GET["ruta"] == "salir") {
         include "modulos/".$_GET["ruta"].".php";
     } else {
