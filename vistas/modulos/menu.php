@@ -2,7 +2,7 @@
         <nav class="megamenu navbar navbar-expand-lg navbar-light bg-light">
             <div class="container">
                 <div class="navbar-header">
-                    <a class="navbar-brand .mx-auto" href="inicio"><span style="font-size: 2em; color: #FF7300;"><i class="fas fa-bug"></i> Cucas Kain</span></a>
+                    <a class="navbar-brand .mx-auto" href="inicio"><span style="font-size: 2em; color: #FF7300;"><i class="fas fa-bug"></i> <?php echo ControladorConfiguracion::nombre_sitio();?></span></a>
                     <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="sr-only">Navegacion</span>
                         <span class="icon-bar"></span>
