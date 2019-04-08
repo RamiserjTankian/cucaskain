@@ -3,7 +3,7 @@
 <div class="row">
     <div class="col-sm-6 col-md-6">
         <img class=" img-fluid" src="vistas/images/logo-cucas-kain.png" >
-    </div>
+         </div>
             <div class="col-md-6">
             <div class="shadow p-3 mb-5 bg-white rounded">
          
@@ -49,9 +49,7 @@
                     </div><!-- end media -->
               
                 </div><!-- end col -->
-            </div><!-- end row -->
-
-         
+            </div><!-- end row -->        
         </div><!-- end container -->
     </div><!-- end section -->
             <div class="row">

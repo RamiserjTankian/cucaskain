@@ -1,7 +1,7 @@
     <footer class="footer">
         <div class="container">
             <div class="row">
-                <div class="col-sm-3 col-md-3 col-lg-3">
+                <div class="col-sm-4 col-md-4 col-lg-4">
                     <div class="widget clearfix">
                         <div class="widget-title">
                             <span style="font-size: 2em; color: #fff;"><i class="fas fa-bug"></i></span>
@@ -10,10 +10,10 @@
                     </div><!-- end clearfix -->
                 </div><!-- end col -->
 
-				<div class="col-sm-3 col-md-3 col-lg-3">
+				<div class="col-sm-4 col-md-4 col-lg-4">
                     <div class="widget clearfix">
                         <div class="widget-title">
-                            <h3>Cucas Kain</h3>
+                            <h3 class="margin-r-5">Cucas Kain</h3>
                         </div>
 
                         <ul class="footer-links hov">
@@ -27,7 +27,7 @@
                     </div><!-- end clearfix -->
                 </div><!-- end col -->
 				
-				<div class="col-sm-3 col-md-3 col-lg-3">
+				<div class="col-sm-4 col-md-4 col-lg-4">
 					<div class="widget footer-contact clearfix">
 						<div class="widget-title">
                             <h3>Contactanos</h3>

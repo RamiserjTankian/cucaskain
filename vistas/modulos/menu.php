@@ -77,6 +77,15 @@
                             <li><a href="testimonios">Testimonios</a></li>                    
                             <li><a class="active" href="contacto">Contactanos</a></li>';
                          }
+                         elseif($_GET["ruta"] == "404"){
+                            echo'       
+                            <li><a href="inicio">Inicio</a></li>               
+                            <li><a href="nosotros">¿Quiénes somos?</a></li>
+                            <li><a href="plagas">¿Qué son las plagas?</a></li>
+                            <li><a href="servicios">Servicios</a></li>                      
+                            <li><a href="testimonios">Testimonios</a></li>                    
+                            <li><a href="contacto">Contactanos</a></li>';
+                         }
 
                         ?>
                     </ul>

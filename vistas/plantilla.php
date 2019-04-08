@@ -75,12 +75,10 @@ if (isset($_GET["ruta"])) {
     if ($_GET["ruta"] == "inicio" || //CONDICIONA LA RUTA PARA CREAR LA ESTRUCTURA INCLUYENDO EL HEADER, SEGUIDAMENTE DEL MENU Y CON EL CONTENIDO QUE ES LA RUTA Y AL FINAL EL FOOTER
         $_GET["ruta"] == "contacto" ||
         $_GET["ruta"] == "servicios" ||
-        $_GET["ruta"] == "contacto" ||
         $_GET["ruta"] == "salir") {
         include "modulos/".$_GET["ruta"].".php";
     } else {
-
-       // include "modulos/404.php";  PARA AGREGAR UN ERROR 404 SI LA RUTA NO ES LA QUE SE INDICA ARRIBA
+       include "modulos/404.php"; // PARA AGREGAR UN ERROR 404 SI LA RUTA NO ES LA QUE SE INDICA ARRIBA
     }
     /*=============================================
     FOOTER
