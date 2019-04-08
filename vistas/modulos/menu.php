@@ -18,8 +18,7 @@
                             <li><a class="active" href="inicio">Inicio</a></li>
                             <li><a href="nosotros">¿Quiénes somos?</a></li>
                             <li><a href="plagas">¿Qué son las plagas?</a></li>
-                            <li><a href="servicios">Servicios</a></li>              
-                            <li><a href="testimonios">Testimonios</a></li>    
+                            <li><a href="servicios">Servicios</a></li>                  
                             <li><a href="contacto">Contactanos</a></li>';
                          }
 
@@ -28,8 +27,7 @@
                             <li><a class="active" href="inicio">Inicio</a></li>               
                             <li><a href="nosotros">¿Quiénes somos?</a></li>
                             <li><a href="plagas">¿Qué son las plagas?</a></li>
-                            <li><a href="servicios">Servicios</a></li>              
-                            <li><a href="testimonios">Testimonios</a></li>    
+                            <li><a href="servicios">Servicios</a></li>                  
                             <li><a href="contacto">Contactanos</a></li>';
                          }
                          elseif($_GET["ruta"] == "nosotros"){
@@ -37,8 +35,7 @@
                             <li><a href="inicio">Inicio</a></li>               
                             <li><a class="active" href="nosotros">¿Quiénes somos?</a></li>
                             <li><a href="plagas">¿Qué son las plagas?</a></li>
-                            <li><a href="servicios">Servicios</a></li>              
-                            <li><a href="testimonios">Testimonios</a></li>    
+                            <li><a href="servicios">Servicios</a></li>                  
                             <li><a href="contacto">Contactanos</a></li>';
                          }
                          elseif($_GET["ruta"] == "plagas"){
@@ -46,8 +43,7 @@
                             <li><a href="inicio">Inicio</a></li>               
                             <li><a href="nosotros">¿Quiénes somos?</a></li>
                             <li><a class="active" href="plagas">¿Qué son las plagas?</a></li>
-                            <li><a href="servicios">Servicios</a></li>            
-                            <li><a href="testimonios">Testimonios</a></li>                 
+                            <li><a href="servicios">Servicios</a></li>                             
                             <li><a href="contacto">Contactanos</a></li>';
                          }
                          elseif($_GET["ruta"] == "servicios"){
@@ -55,17 +51,7 @@
                             <li><a href="inicio">Inicio</a></li>               
                             <li><a href="nosotros">¿Quiénes somos?</a></li>
                             <li><a href="plagas">¿Qué son las plagas?</a></li>
-                            <li><a class="active" href="servicios">Servicios</a></li>                    
-                            <li><a href="testimonios">Testimonios</a></li>                     
-                            <li><a href="contacto">Contactanos</a></li>';
-                         }
-                         elseif($_GET["ruta"] == "testimonios"){
-                            echo'       
-                            <li><a href="inicio">Inicio</a></li>               
-                            <li><a href="nosotros">¿Quiénes somos?</a></li>
-                            <li><a href="plagas">¿Qué son las plagas?</a></li>
-                            <li><a href="servicios">Servicios</a></li>                      
-                            <li><a class="active" href="testimonios">Testimonios</a></li>                    
+                            <li><a class="active" href="servicios">Servicios</a></li>                                         
                             <li><a href="contacto">Contactanos</a></li>';
                          }
                          elseif($_GET["ruta"] == "contacto"){
@@ -73,8 +59,7 @@
                             <li><a href="inicio">Inicio</a></li>               
                             <li><a href="nosotros">¿Quiénes somos?</a></li>
                             <li><a href="plagas">¿Qué son las plagas?</a></li>
-                            <li><a href="servicios">Servicios</a></li>                      
-                            <li><a href="testimonios">Testimonios</a></li>                    
+                            <li><a href="servicios">Servicios</a></li>                                          
                             <li><a class="active" href="contacto">Contactanos</a></li>';
                          }
                          elseif($_GET["ruta"] == "404"){
@@ -82,8 +67,7 @@
                             <li><a href="inicio">Inicio</a></li>               
                             <li><a href="nosotros">¿Quiénes somos?</a></li>
                             <li><a href="plagas">¿Qué son las plagas?</a></li>
-                            <li><a href="servicios">Servicios</a></li>                      
-                            <li><a href="testimonios">Testimonios</a></li>                    
+                            <li><a href="servicios">Servicios</a></li>                                          
                             <li><a href="contacto">Contactanos</a></li>';
                          }
 
