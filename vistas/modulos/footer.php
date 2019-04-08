@@ -3,27 +3,23 @@
             <div class="row">
                 <div class="col-sm-4 col-md-4 col-lg-4">
                     <div class="widget clearfix">
-                        <div class="widget-title">
-                            <span style="font-size: 2em; color: #fff;"><i class="fas fa-bug"></i></span>
+                        <div class="image2">
+                        <img class="img-fluid" src="vistas/images/logotipo-haztech.png">
                         </div>
-                        <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis montes.</p>                        
+                        <div class="posicion2">
+                        <p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente dolorem fuga incidunt odit molestiae fugit ipsum sint architecto temporibus illo doloribus, quasi nihil sunt impedit amet nemo ex facilis itaque!"</p>
+                        </div>                        
                     </div><!-- end clearfix -->
                 </div><!-- end col -->
 
 				<div class="col-sm-4 col-md-4 col-lg-4">
                     <div class="widget clearfix">
-                        <div class="widget-title">
-                            <h3 class="margin-r-5">Cucas Kain</h3>
+                        <div class="image">
+                        <img class="img-fluid" src="vistas/images/logo-cucas-kain.png">
                         </div>
-
-                        <ul class="footer-links hov">
-                            <li><a href="#">Inicio <span class="icon icon-arrow-right2"></span></a></li>
-							<li><a href="#">¿Quiénes somos? <span class="icon icon-arrow-right2"></span></a></li>
-							<li><a href="#">¿Qué son las plagas? <span class="icon icon-arrow-right2"></span></a></li>
-							<li><a href="#">Servicios <span class="icon icon-arrow-right2"></span></a></li>
-							<li><a href="#">Testimoniales <span class="icon icon-arrow-right2"></span></a></li>
-							<li><a href="#">Contactanos <span class="icon icon-arrow-right2"></span></a></li>
-                        </ul><!-- end links -->
+                        <div class="posicion">
+                        <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis montes.</p>
+                        </div>                        
                     </div><!-- end clearfix -->
                 </div><!-- end col -->
 				

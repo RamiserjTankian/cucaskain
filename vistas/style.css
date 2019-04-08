@@ -2216,6 +2216,29 @@ select.mobile-device {
     FOOTER
 -------------------------------------------------------------------*/
 
+.image{
+    width: 300px; 
+    height: 250px;
+    position: relative;
+    top: -100px;
+}
+
+.image2{
+    width: 300px; 
+    height: 250px;
+    position: relative;
+    top: 30px;
+}
+
+.posicion p{
+    margin-top: -90px;
+    color: #000000;
+}
+
+.posicion2 p{
+    margin-top: -110px;
+    color: #000000;
+}
 .cac {
     background-color: #232323;
     -webkit-transition: all .3s ease-in-out;
@@ -2245,8 +2268,8 @@ select.mobile-device {
 .footer {
     padding: 90px 0 80px !important;
     color: #000000;
-    border-top-right-radius: 10rem;
-    border-top-left-radius: 10rem;
+    border-top-right-radius: 2.5rem;
+    border-top-left-radius: 2.5rem;
     background-color: rgb(255, 115, 0);
     text-align: center;
     position: center;
