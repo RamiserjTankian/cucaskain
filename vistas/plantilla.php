@@ -50,9 +50,7 @@
 <!--=====================================
 CUERPO DOCUMENTO
 ======================================-->
-
- 
-  <?php
+<?php
 
 if (isset($_GET["ruta"])) {
 
@@ -84,7 +82,7 @@ if (isset($_GET["ruta"])) {
     FOOTER
     =============================================*/
     include "modulos/footer.php";
-} else { //Si no existe la ruta, incluye directamente la esctructura de la web.
+} else { //Si no existe la ruta, incluye directamente la esctructura de la web en la pagina de inicio.
     include "modulos/header.php";
     include "modulos/menu.php";
     include "modulos/inicio.php";
