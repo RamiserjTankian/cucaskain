@@ -5,7 +5,8 @@
         <img class=" img-fluid" src="vistas/images/logo-cucas-kain.png" >
     </div>
             <div class="col-md-6">
-            <div id="test-box" class="section wb">
+            <div class="shadow p-3 mb-5 bg-white rounded">
+         
                 <div class="section-title text-center">
 
                     <h2>Lorem</h2>
@@ -16,6 +17,7 @@
                     <button type="button" class="btn btn-warning btn-lg">Agendar</button>
                 </div><!-- end messagebox -->
             </div>  
+            </div>
             </div>
     </div>
 </div>
