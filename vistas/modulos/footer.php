@@ -3,6 +3,7 @@
             <div class="row">
                 <div class="col-sm-4 col-md-4 col-lg-4">
                     <div class="widget clearfix">
+                    <div class="shadow p-3 mb-5 bg-white rounded">
                         <div class="image2">
                         <img class="img-fluid" src="vistas/images/logotipo-haztech.png">
                         </div>
@@ -11,10 +12,13 @@
                         </div>                        
                     </div><!-- end clearfix -->
                 </div><!-- end col -->
+                </div><!-- end col -->
 
 				<div class="col-sm-4 col-md-4 col-lg-4">
+                <div class="shadow p-3 mb-5 bg-white rounded">
                     <div class="widget clearfix">
                         <div class="image">
+                            
                         <img class="img-fluid" src="vistas/images/logo-cucas-kain.png">
                         </div>
                         <div class="posicion">
@@ -22,10 +26,13 @@
                         </div>                        
                     </div><!-- end clearfix -->
                 </div><!-- end col -->
+                </div><!-- end col -->
 				
 				<div class="col-sm-4 col-md-4 col-lg-4">
+                <div class="shadow p-3 mb-5 bg-white rounded">
 					<div class="widget footer-contact clearfix">
 						<div class="widget-title">
+                            
                             <h3>Contactanos</h3>
                         </div>
     

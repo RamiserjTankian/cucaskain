@@ -2,7 +2,7 @@
 <div class="container">
 <div class="row">
     <div class="col-sm-6 col-md-6">
-        <img class=" img-fluid" src="vistas/images/logo-cucas-kain.png" >
+        <img class="img-fluid" src="vistas/images/logo-cucas-kain.png" >
          </div>
             <div class="col-md-6">
             <div class="shadow p-3 mb-5 bg-white rounded">
