@@ -5,7 +5,7 @@
                     <div class="widget clearfix">
                     <div class="shadow p-3 mb-5 bg-white rounded">
                         <div class="image2">
-                        <img class="img-fluid" src="vistas/images/logotipo-haztech.png">
+                        <i class="fas fa-bug fa-7x"></i>
                         </div>
                         <div class="posicion2">
                         <p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente dolorem fuga incidunt odit molestiae fugit ipsum sint architecto temporibus illo doloribus, quasi nihil sunt impedit amet nemo ex facilis itaque!"</p>
@@ -16,17 +16,12 @@
 
 				<div class="col-sm-4 col-md-4 col-lg-4">
                 <div class="shadow p-3 mb-5 bg-white rounded">
-                    <div class="widget clearfix">
-                        <div class="image">
-                            
-                        <img class="img-fluid" src="vistas/images/logo-cucas-kain.png">
-                        </div>
-                        <div class="posicion">
-                        <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis montes.</p>
-                        </div>                        
+                <div class="container">
+                <div class="mapouter"><div class="gmap_canvas"><iframe width="250" height="250" id="gmap_canvas" src="https://maps.google.com/maps?q=university%20of%20san%20francisco&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>Werbung: <a href="https://www.pureblack.de">pureblack.de</a></div><style>.mapouter{position:relative;text-align:right;height:250px;width:250px;}.gmap_canvas {overflow:hidden;background:none!important;height:250px;width:250px;}</style></div>
+                    </div>
                     </div><!-- end clearfix -->
                 </div><!-- end col -->
-                </div><!-- end col -->
+
 				
 				<div class="col-sm-4 col-md-4 col-lg-4">
                 <div class="shadow p-3 mb-5 bg-white rounded">
