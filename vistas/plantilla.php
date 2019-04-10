@@ -39,7 +39,8 @@
     <script src="vistas/js/custom.js"></script>
     <script src="vistas/js/portfolio.js"></script>
     <script src="vistas/js/hoverdir.js"></script>   
-
+    <script src="vistas/js/ir-arriba.js"></script>  
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
 
     <script src="vistas/js/pace.min.js"></script>   
 

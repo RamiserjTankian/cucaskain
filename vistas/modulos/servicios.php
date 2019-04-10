@@ -106,4 +106,5 @@
 				</div>
 			</div>
         </div><!-- end container -->
-    </div><!-- end section -->
+	</div><!-- end section -->
+<span class="ir-arriba"><i class="fas fa-angle-up"></i></span>    

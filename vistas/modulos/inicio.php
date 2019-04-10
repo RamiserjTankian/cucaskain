@@ -2,7 +2,6 @@
 <div class="container">
 <div class="shadow p-3 mb-5 bg-white rounded">
 <div class="row">
-
     <div class="col-sm-6 col-md-6">
         <img class="img-fluid" src="vistas/images/logo-cucas-kain.png" >
          </div>
@@ -125,3 +124,5 @@
 
         </div><!-- end container -->
     </div><!-- end section -->
+
+<span class="ir-arriba"><i class="fas fa-angle-up"></i></span> 

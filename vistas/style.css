@@ -3528,13 +3528,14 @@ select.mobile-device {
 
 .ir-arriba {
 	display: none;
-	padding: 30px;
+	padding: 10px;
 	background:#ff8800;
-	font-size: 30px;
+	font-size: 20px;
 	color:#fff;
 	cursor: pointer;
 	position: fixed;
 	bottom: 20px;
-	right: 20px;
+    right: 20px;
+    border-radius: 1rem;
 }
 

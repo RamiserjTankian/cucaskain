@@ -9,4 +9,3 @@
     </div><!-- end container -->
 </div><!-- end copyrights -->
 
-<a href="inicio" id="scroll-to-top" class="dmtop global-radius"><i class="fa fa-angle-up"></i></a>
