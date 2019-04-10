@@ -423,7 +423,7 @@ a img.aligncenter {
 }
 
 .header_style_01 .navbar-brand {
-    padding: 0px 15px 0 15px;
+    padding: 0px 0px 0 15px;
     height: auto;
 }
 
@@ -3523,3 +3523,18 @@ select.mobile-device {
 .dmtop.show {
     bottom: 20px;
 }
+
+/* Boton Ir-arriba */
+
+.ir-arriba {
+	display: none;
+	padding: 30px;
+	background:#ff8800;
+	font-size: 30px;
+	color:#fff;
+	cursor: pointer;
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+}
+
