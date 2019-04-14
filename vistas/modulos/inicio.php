@@ -1,5 +1,7 @@
 <div class="banner-area banner-bg-1">
+
 <div class="container">
+
 <div class="shadow p-3 mb-5 bg-white rounded">
 <div class="row">
     <div class="col-sm-6 col-md-6">
@@ -12,7 +14,7 @@
                     <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed vitae rutrum neque. Ut id erat sit amet libero bibendum aliquam. Donec ac egestas libero, eu bibendum risus. Phasellus et congue justo. </p>
                     <button type="button" class="btn btn-warning btn-lg">Agendar</button>
                 </div>
-            </div>  
+                </div>    
 </div>
 </div>
 </div>

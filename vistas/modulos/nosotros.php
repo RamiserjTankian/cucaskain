@@ -1,11 +1,11 @@
-<div id="test-box" class="section wb">
+<div id="test-box" class="section wb" style="padding-bottom: 30px;">
         <div class="container">
             <div class="section-title text-center">
                 <h3>¿Quienes somos?</h3>
                 <p class="lead"> <br>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Optio, minima. A, est aliquam. Dolor fuga laboriosam quam debitis, voluptas adipisci ex impedit facere modi asperiores quisquam commodi, fugit, numquam quis! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam assumenda qui optio quo impedit sed ducimus, tempore ipsum, labore voluptatum, numquam esse placeat consectetur aperiam ipsa sapiente in corrupti modi? Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam cum nostrum illo fugit maiores iusto consectetur, facere nam reiciendis omnis? Nesciunt consequatur illo, distinctio suscipit nisi iste sunt voluptatum error?</p>
             </div><!-- end title -->
            
-<div id="about" class="section wb">
+<div id="about" class="section wb ">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">

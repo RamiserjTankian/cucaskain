@@ -1,4 +1,4 @@
-<div id="contact" class="section wb">
+<div id="contact" class="section wb" style="padding-bottom: 0px;">
         <div class="container">
             <div class="section-title text-center">
                 <h3>Get in touch</h3>
@@ -7,7 +7,7 @@
 
             <div class="row">
                 <div class="col-md-8 offset-md-2">
-                    <div class="contact_form">
+                    <div class="contact_form" >
                         <div id="message"></div>
                         <form id="contactform" action="contact.php" name="contactform" method="post">
                             <fieldset class="row">
